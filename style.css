@@ -1,0 +1,21 @@
+.div1{
+    background-color:#000033;
+    height:50px;
+    color: white;
+    font-size: 30px;
+    font-weight: 700px;
+    text-align:center ;
+padding: 5px 5px;
+}
+
+.img{
+    height:40px;
+    width: 40px;
+    padding-top: 5px;
+}
+.links{
+    color:white;
+    padding-left: 10px;
+    font-size:20px;
+   text-decoration:none;
+}
