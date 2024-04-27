@@ -19,3 +19,35 @@ padding: 5px 5px;
     font-size:20px;
    text-decoration:none;
 }
+.techno{
+    color:rgb(111, 110, 110); font-size:25px;
+      font-family:cursive;
+    margin-top: -16px;
+}
+.learn{
+    color:rgb(41, 184, 41);
+    font-size:30px;
+    margin-top:-16px;
+}
+.btn1{
+  background-color: #fcc603; 
+   height:40px;
+   width: 130px;
+   border-style:solid;
+border-color:#f7df02;
+border-width: 1px;
+ border-radius: 20px;
+ padding-bottom: 6px;
+ font-size:17px;
+}
+.btn2{
+  background-color:black; 
+   height:40px;
+   width: 140px;
+   margin-left:20px;
+   color: white;
+   border-style:solid;
+ border-radius: 20px;
+ padding-bottom: 6px;
+ font-size:17px;
+}
